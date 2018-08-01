@@ -3,4 +3,4 @@
 
 工具：QT、C++
 
-环境： Qt5.10.1 GCC_64bit
+环境： Ubuntu16.04、 Qt5.10.1、GCC_64bit
